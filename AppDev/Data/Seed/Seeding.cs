@@ -18,6 +18,8 @@ namespace AppDev.Data.Seed
                     Name = "ASP.NET",
                     Description = "Welcome to class ASP.NET"
                 }) ;
+
+
   
         }
     }
